@@ -1,5 +1,0 @@
-{ "urls": [{ "url": "https://tvbox.229002677.xyz/采集网.json", "name": "采集网" },
-
-{ "url": "https://tvbox.229002677.xyz/爱优腾.json", "name": "爱优腾" },
-
-{ "url": "https://tvbox.229002677.xyz/短剧.json", "name": "短剧" }]}
