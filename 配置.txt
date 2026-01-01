@@ -2,4 +2,4 @@
 
 { "url": "https://tvbox.229002677.xyz/爱优腾.json", "name": "爱优腾" },
 
-{ "url": "https://tvbox.229002677.xyz/短剧.json", "name": "短剧" }]}1
+{ "url": "https://tvbox.229002677.xyz/短剧.json", "name": "短剧" }]}
