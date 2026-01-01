@@ -1,5 +1,5 @@
 {
-"spider":"http://oss4liview.moji.com/thd_file/2025/12/30/d6ba8dda9bf5c948bdba58819cda6e25.jpg;md5;acad1a9b1993c3aa82d753a7b8901ea9",
+"spider":"http://oss4liview.moji.com/thd_file/2025/12/31/304721934f09bb6602c3f0a6cd154607.jpg;md5;e8f825112622dc0da002217b29e03bed",
 "logo": "./logo.gif",
   "sites": [
     {
@@ -63,7 +63,13 @@
     {"key":"糯米","name":"🍓糯米","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout": 10},
     {"key":"热播","name":"📺热播","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"site": 0}, "timeout": 10},
     {"key":"小苹果","name":"🍎苹果","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout": 10},
+    {"key":"鲸鱼","name":"🐳鲸鱼","type": 3,"api":"csp_JingYuGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
+    {"key":"小猪","name":"🐖小猪","type": 3,"api":"csp_XiaoZhuGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
+    {"key":"恋鱼","name":"🐟恋鱼","type": 3,"api":"csp_AppFoxGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext": {"siteFrom": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json"}, "timeout": 10},
+    {"key":"麒麟","name":"🐓麒麟","type": 3,"api":"csp_AppFoxGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext": {"siteUrl": "https://www.70yyw.cc"}, "timeout": 10},
     {"key":"厂长","name":"📔厂长","type": 3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
+    {"key":"csp_Btt","name":"🌞比特","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1, "timeout": 10},
+    {"key":"荐片","name":"⚔️荐片┃手机","type": 3,"api":"csp_JianpianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
         {"key":"新6V","name":"🧲新6V","type":3,"api":"csp_Xb6vGuard","searchable":1,"quickSearch":1,"changeable":0,"timeout":20},
     {"key":"盒马短剧","name":"🦓盒马","type":3,"api":"csp_HeMaGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
     {"key":"星芽短剧","name":"💖星芽","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
