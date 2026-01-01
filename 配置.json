@@ -1,5 +1,5 @@
-{ "urls": [{ "url": "https://tvbox.229002677.xyz/采集网.json", "name": "采集网" },
+{ "urls": [{ "url": "https://raw.githubusercontent.com/wolf2021/tvbox/refs/heads/main/采集网.json", "name": "采集网" },
 
-{ "url": "https://tvbox.229002677.xyz/爱优腾.json", "name": "爱优腾" },
+{ "url": "https://raw.githubusercontent.com/wolf2021/tvbox/refs/heads/main/爱优腾.json", "name": "爱优腾" },
 
-{ "url": "https://tvbox.229002677.xyz/短剧.json", "name": "短剧" }]}
+{ "url": "https://raw.githubusercontent.com/wolf2021/tvbox/refs/heads/main/短剧.json", "name": "短剧" }]}
