@@ -3,24 +3,6 @@
   "logo": "./乙坂有宇.png",
   "sites": [
     {
-      "key": "听风",
-      "name": "🦇听风",
-      "type": 1,
-      "api": "https://gctf.tfdh.top/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "金蝉",
-      "name": "🦋金蝉",
-      "type": 1,
-      "api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "tenteng",
       "name": "🐧腾讯",
       "type": 3,
