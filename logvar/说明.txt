@@ -1,0 +1,36 @@
+====只适配ok影视=========
+
+
+
+1、线路配置 (支持 Ext 多线并发) 在 dm.json 中配置 apiUrls 即可开启多线程加速（最多4条，后端并发请求多条线路，谁快用谁）：
+            "ext":
+            {
+                "apiUrls":
+                [
+                    "线路1",
+                    "线路2",
+                    "线路3",
+                    "线路4"
+                ]
+            }
+
+2、强烈建议搭配部署本地/私有弹幕 API，体验毫秒级加载：https://github.com/huangxd-/danmu_api 设置可参考dm.json默认线路的设置。
+     安卓App，请前往 @lilixu3 的项目 https://github.com/lilixu3/danmu-api-android/releases 下载
+
+
+3、Web 控制台入口 (局域网)
+
+ 配置管理: http://电视IP:9810/config
+ 手动推送弹幕: http://电视IP:9810/push
+
+
+4、放大镜或 AI弹幕按钮 长按 可打开配置线路页面。
+
+
+5、 声明 & 致谢
+    AI 纯血统：本项目代码 100% 由 DeepSeek (AI) 编写，无人工反馈通道，不强制使用。
+    特别感谢：
+    FongMi   项目底座
+    DeepSeek 强力驱动
+    ok影视 及所有插件作者
+    一路走来、LEO大佬帮忙测试
