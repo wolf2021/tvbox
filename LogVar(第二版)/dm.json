@@ -1,0 +1,13 @@
+{
+  "spider": "./danmu-spider.jar",
+  "lives": [],
+  "sites": [
+    {
+      "key": "弹幕",
+      "name": "弹幕(测试)",
+      "type": 3,
+      "api": "csp_DanmakuSpider",
+      "index": 1
+    }
+  ]
+}
