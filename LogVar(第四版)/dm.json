@@ -1,0 +1,20 @@
+{
+  "spider": "./danmu-spider.jar",
+  "lives": [],
+  "sites": [
+    {
+      "key": "弹幕",
+      "name": "弹幕(测试)",
+      "type": 3,
+      "api": "csp_SecureDanmu",
+      "index": 1,
+      "ext": {
+        "apiUrls": [
+          "https://logo.saodu.work:8888/87654321|公益源",
+          "https://dm.liuuu.top/99|公益源1",
+          "https://1233.hhfnj.dpdns.org|爪云"
+        ]
+      }
+    }
+  ]
+}
