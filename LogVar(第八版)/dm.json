@@ -1,0 +1,19 @@
+{
+  "spider": "./danmu-spider.jar",
+  "lives": [],
+  "sites": [
+    {
+      "key": "弹幕",
+      "name": "弹幕(测试)",
+      "type": 3,
+      "api": "csp_SecureDanmu",
+      "index": 1,
+      "ext": {
+        "apiUrls": [
+          "https://www.229002677.xyz",
+          "http://localhost:9321"
+        ]
+      }
+    }
+  ]
+}
