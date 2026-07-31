@@ -1,0 +1,23 @@
+{
+  "spider": "./danmu-spider-native.jar;md5;AA54D353945B2E10CB91552EDB2FF4F7",
+  "lives": [],
+  "sites": [
+    {
+      "key": "弹幕",
+      "name": "弹幕(测试)",
+      "type": 3,
+      "api": "csp_SecureDanmu",
+      "index": 1,
+      "ext": {
+        "apiUrls": [
+          "https://op.nongmei.site:9443/654321|马牛逼。",
+          "http://36.152.167.179:9321/925754/|ABC",
+          "https://dm.wodenas.xin/xiatianembydm|夏天。",
+"https://www.229002677.xyz|鸣人。",
+"http://localhost:9321|本地。"
+        ],
+        "titleMappingsUrl": "./yins.json"
+      }
+    }
+  ]
+}
