@@ -2,15 +2,6 @@
   "logo": "./logo.gif",
   "sites": [
     {
-      "key": "官源",
-      "name": "🐺官源",
-      "type": 3,
-      "api": "./官源.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "天堂",
       "name": "🐶天堂",
       "type": 1,
